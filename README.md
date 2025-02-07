@@ -1,0 +1,2 @@
+# -Enhancing-Image-Classification-with-Data-Augmentation-A-Case-Study-on-the-Flowers-Dataset-
+This project applies data augmentation using TensorFlow/Keras on the Flowers dataset to improve image classification. Techniques like flipping, rotation, zooming, and contrast adjustments enhance dataset diversity and prevent overfitting. A CNN model classifies flowers, demonstrating the benefits of augmentation without collecting extra data.
